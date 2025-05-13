@@ -11,9 +11,8 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Discover your next great read.
+BookStore is your one-stop destination for exploring, browsing, and buying books across all genres—fiction, non-fiction, academic, and more. With a clean interface and easy navigation, finding your favorite titles has never been easier.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
